@@ -1,0 +1,20 @@
+{
+  "name": "Ejjigiri Jalandhar Portfolio",
+  "short_name": "Ejjigiri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "icons": [
+    {
+      "src": "images/passphoto.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/passphoto.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
